@@ -1,4 +1,4 @@
-# TicTacToe2
+# TicTacToe
 Курсов проект по Python
 
 # Как се играе?
